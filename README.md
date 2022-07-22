@@ -24,7 +24,7 @@ CREDITOS: @ALEAYORY, @RAFAEL, @NERO, @LICHT, @SAMUEL, @YUBI
 </p>
 
 
-[![Watch the video](https://i.pinimg.com/originals/fc/15/88/fc1588e0712f4d36de93586c9248af3d.gif)](https://github.com/MagoInterior/sakura-botv5/)
+[![Watch the video](https://i.pinimg.com/originals/fc/15/88/fc1588e0712f4d36de93586c9248af3d.gif)](https://replit.com/@MagoInterior/sakura-botv5?v=1)
 
 
 
