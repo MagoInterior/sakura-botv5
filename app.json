@@ -17,6 +17,9 @@
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
+    {
+      "url": "https://github.com/pathwaysmedical/heroku-buildpack-tesseract"
+    }
   ],
    "formation": {
         "worker": {
