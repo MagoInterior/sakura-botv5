@@ -20,7 +20,7 @@
     {
       "url": "https://github.com/pathwaysmedical/heroku-buildpack-tesseract"
     }
-  ],
+  ]
    "formation": {
         "worker": {
             "quantity": 1,
